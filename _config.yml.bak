@@ -1,15 +1,15 @@
-title: Xingjian Zhang
+title: Jason Ansel
 #tagline:          A short tagline
 #description:      Describe your website.
 #Comment out url when working locally to resolve base urls correctly
-url: http://zhangxingjian.com
+url: http://jasonansel.com
 
 # Owner/author information
 owner:
-  name:           Xingjian Zhang
+  name:           Jason Ansel
   avatar:         jasonansel.jpg
 #  bio:
-  email:          zhangxingjianqm@gmail.com
+  email:          jasonansel@jasonansel.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:
   facebook:
