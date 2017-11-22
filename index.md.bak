@@ -13,7 +13,9 @@ first non-founder employee of Locu and my work there and at GoDaddy focuses
 on creating machine learning algorithms for extracting semantic information
 from unstructured web content.
 
-tttttttttttttttttttttttttttttttttttttttttttttttttt
+I spend some of my free time working on [OpenTuner], an extensible framework
+for program autotuning.  We are currently looking for users, if interested
+the source code is available on the [OpenTuner] site.
 
 As part of my PhD dissertation, I started the [PetaBricks] language and
 compiler project.  PetaBricks is a language that incorporates algorithmic
