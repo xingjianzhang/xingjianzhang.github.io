@@ -4,32 +4,12 @@ layout: page
 
 # About Me
 
-<img src="/images/jasonansel3.jpg" class="floatpic" width="200" height="200">
-My name is Jason Ansel.  I am a Director of Engineering at GoDaddy, which
-I joined in 2013 as part of the [acquisition] of the startup [Locu][locu].
-I started working for Locu in 2011, while I was simultaneously pursuing
-my PhD at [MIT][MIT] [CSAIL][CSAIL], which I completed in 2013.  I was the
-first non-founder employee of Locu and my work there and at GoDaddy focuses
-on creating machine learning algorithms for extracting semantic information
-from unstructured web content.
-
-tttttttttttttttttttttttttttttttttttttttttttttttttt
-
-As part of my PhD dissertation, I started the [PetaBricks] language and
-compiler project.  PetaBricks is a language that incorporates algorithmic
-choices to allow an integrated autotuner to explore search spaces of program
-implementations.  As an undergraduate I did research with [Gene Cooperman]
-and helped create [DMTCP], a user-level distributed checkpoint/restart system.
+<img src="/images/zhangxingjian.jpg" class="floatpic" width="200" height="250">
+My name is Xingjian Zhang. After I graduated from [Beijing University of Posts and Telecommunications (BUPT)][Beijing University of Posts and Telecommunications (BUPT)], Beijing, PRC, in Jun. 2014, I joined [Queen Mary University of London (QMUL)][Queen Mary University of London (QMUL)], London, UK, to pursue my PhD (Sep. 2017 - present). Currently, I am a post-doctoral research assistant and final year PhD candidate in QMUL. My research interests include Compressive Sensing, Internet of Things, Spectrum Sensing in Dynamic Spectrum Management and Machine Learning and Big Data. For my completed publication list and project experience, please see [My Publications][My Publications] and [My Projects][My Projects].
 
 
-[acquisition]: http://allthingsd.com/20130819/godaddy-acquires-merchant-finder-startup-locu-for-70-million/
-[CSAIL]: http://www.csail.mit.edu/
-[DMTCP]: http://dmtcp.sourceforge.net/
-[Gene Cooperman]: http://www.ccs.neu.edu/home/gene/
-[Locu]: http://locu.com/
-[MIT]: http://www.mit.edu/
-[OpenTuner]: http://opentuner.org/
-[PetaBricks]: http://projects.csail.mit.edu/petabricks/
-[Commit]: http://groups.csail.mit.edu/commit/
-[Saman Amarasinghe]: http://people.csail.mit.edu/saman/
+[Beijing University of Posts and Telecommunications (BUPT)]: http://english.bupt.edu.cn/
+[Queen Mary University of London (QMUL)]: http://www.qmul.ac.uk/
+[My Publications]: http://www.zhangxingjian.com/publications/
+[My Projects]: http://www.zhangxingjian.com/projects/
 
