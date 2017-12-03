@@ -12,7 +12,7 @@ TV White Space Spectrum in London”.
 - [J2] H. Qi, **X. Zhang**, and Y. Gao, “Channel Energy Statistics Learning in Compressive Spectrum Sensing”.
 
 _Submitted/Accepted:_
-- [J3] **X. Zhang**, Y. Ma, H. Qi and Y. Gao, “Cognitive IoT: Distributed Compressive Sensing Augmented Wideband Spectrum Sharing”, *IEEE Internet of Things Journal* (under review).
+- [J3] **X. Zhang**, Y. Ma, H. Qi and Y. Gao, “Distributed Compressive Sensing Augmented Wideband Spectrum Sharing in Cognitive IoT”, *IEEE Internet of Things Journal* (under review).
 - [J4] **X. Zhang**, Y. Ma, Y. Gao and W. Zhang, “Autonomous Compressive Sensing Augmented Spectrum Sharing”, *IEEE Transactions on Vehicular Technology* (under review).
 - [J5] **X. Zhang**, Y. Ma, H. Qi and Y. Gao, “Low-Complexity Compressive Spectrum Sensing for Large-Scale Real-Time Processing”, *IEEE Wireless Communications Letter* (under review).
 - [J6] Y. Ma, **X. Zhang\***, and Y. Gao, “Joint Sub-Nyquist Spectrum Sensing Scheme with Geolocation Database over TV White Space”, *IEEE Transactions on Vehicular Technology*, Sep. 2017 (*Corresponding Author).
