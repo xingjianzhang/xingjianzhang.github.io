@@ -11,10 +11,7 @@ title: Experience
 ### Academic Activities
 
 - **Web Chair** of IEEE World of Wireless, Mobile and Multimedia Networks (WoWMoM) 2017
-
-
-- **Reviewer and TPC member**
-
+- **Reviewer and TPC member** of
   - IEEE Transactions on Vehicular Technology (TVT)
   - IEEE Transactions on Cognitive Communications and Networking (TCCN)
   - IET Signal Processing (SPR)
