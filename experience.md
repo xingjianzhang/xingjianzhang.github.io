@@ -4,7 +4,7 @@ permalink: /experience/index.html
 title: Experience
 ---
 
-# Work Experience
+## Project Experience
 
 ### GoDaddy (2013-)
   - Director of Engineering
@@ -18,12 +18,22 @@ title: Experience
 {% endcomment %}
 
 
-# Academic Activities
+## Academic Activities
 
-### Massachusetts Institute of Technology (2007-2009: MS; 2009-2014: PhD)
-  - Teaching Assistant: _6.035 Computer Language Engineering_ (Fall 2010)
-  - Research Assistant (2007-2013)
-
-### Northeastern University (2002-2007: BS)
-  - Tutor: _Fundamentals of Computer Science_ course (Fall 2003)
+### Reviewer and TPC member
+- IEEE Transactions on Vehicular Technology (TVT)
+- IEEE Transactions on Cognitive Communications and Networking (TCCN)
+- IEEE Access
+- IET Signal Processing (SPR)
+- Springer Journal of Communications and Information Networks (JCIN)
+- Hindawi Journal of Computer Networks and Communications (JCNC)
+- IEEE International Conference on Computing, Networking and Communication  ICNC) 2018
+- IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC) 2017
+- Asia-Pacific Conference on Communications (APCC) 2017
+- IEEE Global Communications (GLOBECOM) 2017
+- IEEE WCNC Workshop on Smart Spectrum 2017
+- IEEE International Conference on Communications (ICC) 2017
+- IEEE Wireless Communications and Networking Conference (WCNC) 2017
+- IEEE International Conference on Communications (ICC) 2016
+- IEEE Wireless Communications and Networking Conference (WCNC) 2016
 
