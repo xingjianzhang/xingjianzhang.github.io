@@ -5,8 +5,8 @@ title: Experience
 ---
 
 ### Project Experience
-- **Post-Doctoral Research Assistant**, Queen Mary University of London, [LIVEQuest][1]: A self-contained wearable Internet of things system for precision livestock agriculture (May 2017 - Present)
-- **Research Assistant**, Queen Mary University of London, Tic-Tac: TV white space testbed with robust spectrum sensing algorithms for M2M communications (Oct. 2014 – Oct. 2015)
+- **Post-Doctoral Research Assistant**, Queen Mary University of London, *[LIVEQuest][1]: A self-contained wearable Internet of things system for precision livestock agriculture* (May 2017 - Present)
+- **Research Assistant**, Queen Mary University of London, *Tic-Tac: TV white space testbed with robust spectrum sensing algorithms for M2M communications* (Oct. 2014 – Oct. 2015)
 
 [1]: http://livequest.eecs.qmul.ac.uk/ 
 
