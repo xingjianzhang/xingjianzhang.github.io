@@ -4,27 +4,17 @@ permalink: /experience/index.html
 title: Experience
 ---
 
-## Project Experience
+### Project Experience
 
-### GoDaddy (2013-)
-  - Director of Engineering
-  - Continuing work in Locu ([acquired by GoDaddy][news1], August 2013)
+### Work Experience
 
-[news1]: http://allthingsd.com/20130819/godaddy-acquires-merchant-finder-startup-locu-for-70-million/
+### Academic Activities
 
-{% comment %}
-  - Created and improved on algorithms to process multi-row computer tomography data
-  - Created tool for visualizing algorithm results, creating ground-truths, and generating reports about detection
-{% endcomment %}
-
-
-## Academic Activities
-
-### Web Chair
+#### Web Chair
 
 IEEE World of Wireless, Mobile and Multimedia Networks (WoWMoM) 2017
 
-### Reviewer and TPC member
+#### Reviewer and TPC member
 - IEEE Transactions on Vehicular Technology (TVT)
 - IEEE Transactions on Cognitive Communications and Networking (TCCN)
 - IEEE Access

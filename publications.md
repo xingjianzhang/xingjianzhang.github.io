@@ -3,7 +3,6 @@ layout: page
 permalink: /publications/index.html
 title: Publications
 ---
-# Publications
 
 ### Journal Paper
 _In Preparation:_
