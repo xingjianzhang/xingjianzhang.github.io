@@ -6,12 +6,12 @@ title: Publications
 # Publications
 
 ### Journal Paper
-#### _In Preparation:_
+_In Preparation:_
 - [J1] Y. Ma, **X. Zhang**, Y. Gao, W. Rong, X. Zhang and S. Cui, “Data Analysis of Short- and Long-Term
 TV White Space Spectrum in London”.
 - [J2] H. Qi, **X. Zhang**, and Y. Gao, “Channel Energy Statistics Learning in Compressive Spectrum Sensing”.
 
-#### _Submitted/Accepted:_
+_Submitted/Accepted:_
 - [J3] **X. Zhang**, Y. Ma, H. Qi and Y. Gao, “Cognitive IoT: Distributed Compressive Sensing Augmented Wideband Spectrum Sharing”, IEEE Internet of Things Journal (under review).
 - [J4] **X. Zhang**, Y. Ma, Y. Gao and W. Zhang, “Autonomous Compressive Sensing Augmented Spectrum Sharing”, IEEE Transactions on Vehicular Technology (under review).
 - [J5] **X. Zhang**, Y. Ma, H. Qi and Y. Gao, “Low-Complexity Compressive Spectrum Sensing for Large-Scale Real-Time Processing”, IEEE Wireless Communications Letter (under review).
