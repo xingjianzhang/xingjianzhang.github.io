@@ -7,14 +7,14 @@ url: http://zhangxingjian.com
 # Owner/author information
 owner:
   name:           Xingjian Zhang
-  avatar:         jasonansel.jpg
+ # avatar:         jasonansel.jpg
 #  bio:
   email:          zhangxingjianqm@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:
   facebook:
-  github: jansel
-  linkedin: jansel
+  #github: jansel
+  #linkedin: jansel
   instagram:
   lastfm:
   tumblr:
@@ -37,8 +37,8 @@ links:
     url: /publications/
   - title: Experience
     url: /experience/
-  - title: Hobbies
-    url: /hobbies/
+  #- title: Hobbies
+  #  url: /hobbies/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: America/New_York
