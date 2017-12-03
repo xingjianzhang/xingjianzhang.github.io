@@ -5,13 +5,20 @@ title: Experience
 ---
 
 ### Project Experience
+- **Post-Doctoral Research Assistant**, Queen Mary University of London, [LIVEQuest][1]: A self-contained wearable Internet of things system for precision livestock agriculture (May 2017 - Present)
+- **Research Assistant**, Queen Mary University of London, Tic-Tac: TV white space testbed with robust spectrum sensing algorithms for M2M communications (Oct. 2014 – Oct. 2015)
 
+[1]: http://livequest.eecs.qmul.ac.uk/ 
+
+<!--
 ### Work Experience
-
+- **IT Analyst**, Queen Mary University of London (Sep. 2016 - Apr. 2017)
+- **Web Developer**, Innovation China UK (ICUK) (Nov. 2016 - Feb. 2017)
+-->
 ### Academic Activities
 
 - **Web Chair** of IEEE World of Wireless, Mobile and Multimedia Networks (WoWMoM) 2017
-- **Reviewer and TPC member** of
+- **Reviewer and TPC member**
   - IEEE Transactions on Vehicular Technology (TVT)
   - IEEE Transactions on Cognitive Communications and Networking (TCCN)
   - IET Signal Processing (SPR)
